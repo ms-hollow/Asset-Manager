@@ -34,6 +34,4 @@ Requirements:
 3. Open the solution in Visual Studio and run the project.
 
 ## On the first run, the backend will:
-- Seed default roles (e.g., Employee, Asset Manager)
-- Create a Super Admin user for testing
 - Populate the database with initial asset data
